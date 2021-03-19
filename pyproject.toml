@@ -2,6 +2,7 @@
 name = "channel-order"
 version = "0.1.0"
 description = ""
+authors = ["S-Nakamur-a <email>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
