@@ -1,0 +1,10 @@
+---
+dataset:
+  test: dataset/BSD100/image_SRF_4
+  train: dataset/DIV2K/DIV2K_train_HR/DIV2K_train_HR
+  val: dataset/DIV2K/DIV2K_valid_HR/DIV2K_valid_HR
+epochs: 100
+experiment_name: channel-classification
+model: efficientnet-b2
+save_dir: results
+version: 5
